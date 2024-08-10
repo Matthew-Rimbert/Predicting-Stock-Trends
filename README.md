@@ -43,9 +43,18 @@ from sklearn import metrics
 
 ## 📈 Results
 
-- **Model Accuracy:** The logistic regression model achieved an accuracy of `X%` (replace with your actual result) on the test set.
+- **Model Accuracy:** The logistic regression model achieved an accuracy of `44%` (replace with your actual result) on the test set.
 - **Classification Report:** A detailed classification report is generated to assess precision, recall, and F1-score.
+```plaintext
+              precision    recall  f1-score   support
 
+           0       0.44      1.00      0.61        22
+           1       0.00      0.00      0.00        28
+
+    accuracy                           0.44        50
+   macro avg       0.22      0.50      0.31        50
+weighted avg       0.19      0.44      0.27        50
+```
 ## 📂 Dataset
 
 The dataset used in this analysis is fetched in real-time using the `yfinance` library and consists of daily closing prices for Tesla, Amazon, and the S&P 500 over the past year.
