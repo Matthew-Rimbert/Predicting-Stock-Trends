@@ -93,7 +93,16 @@ Date                                                              ...
 2023-08-15 00:00:00-04:00  4478.870117  4478.870117  4432.189941  ...        0.0           0.0  -0.011618
 2023-08-16 00:00:00-04:00  4433.790039  4449.950195  4403.549805  ...        0.0           0.0  -0.007584
 ```
+
+## 🔮 Future Work
+
+- **Model Enhancement:** Experiment with more advanced machine learning models such as Random Forest or Gradient Boosting to improve prediction accuracy.
+- **Feature Engineering:** Incorporate additional features such as trading volume, macroeconomic indicators, or sentiment analysis from news sources.
+- **Time Horizon:** Expand the prediction time horizon to forecast trends over multiple days or weeks.
+- **Real-time Prediction:** Integrate real-time data fetching and prediction to build a live trading signal generator.
+
 ## 🗒️ Conclusion
+
 
 This project successfully demonstrates the use of logistic regression to predict stock price trends based on historical data. By analyzing multiple stocks, the model provides valuable insights into market behavior, helping to forecast potential price movements for Tesla.
 
