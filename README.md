@@ -1,4 +1,10 @@
 # 📈 Predicting Stock Trends
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-1.2.4+-red.svg)
+![NumPy](https://img.shields.io/badge/NumPy-1.19.2+-orange.svg)
+![SciKit-Learn](https://img.shields.io/badge/SciKit--Learn-0.23.2+-yellow.svg)
+![yFinance](https://img.shields.io/badge/yFinance-0.1.63+-green.svg)
+![Yahoo Finance](https://img.shields.io/badge/Data-Yahoo%20Finance-yellow.svg)
 
 ## 🎯 Project Overview
 
