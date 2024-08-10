@@ -43,7 +43,7 @@ from sklearn import metrics
 
 ## 📈 Results
 
-- **Model Accuracy:** The logistic regression model achieved an accuracy of #### `44%`
+- **Model Accuracy:** The logistic regression model achieved an accuracy of `44%`
 - **Classification Report:** A detailed classification report is generated to assess precision, recall, and F1-score.
 ```plaintext
               precision    recall  f1-score   support
